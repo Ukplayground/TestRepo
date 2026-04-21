@@ -1,0 +1,5 @@
+# requirements.txt — Python dependencies
+# Note: these versions are intentionally old for TMAS scanner testing
+PyYAML==5.3.1
+Django==2.0
+requests==2.18.0
